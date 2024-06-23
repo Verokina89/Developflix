@@ -2,7 +2,7 @@
 
 Este es un proyecto web que muestra una lista de películas filtradas por género.
 
-Tienes 2 scripts, un es `peliculas.js` donde hay un objeto lleno de peliculas con varios datos y en el `script.js` donde trabajaras y con la variable peliculas importada lista para usar. Si haces un `console.log(películas)` verás toda la información
+Tienes 2 scripts, uno es `peliculas.js` donde hay un objeto lleno de peliculas con varios datos y en el `script.js` donde trabajaras y con la variable peliculas importada lista para usar. Si haces un `console.log(películas)` verás toda la información
 
 Los generos serán Acción (28), thriller(53), Aventura(12). Puedes ver sus ids en `genre_ids` dentro del objeto. Verás que cada pelicula comparte ids por tanto es probable que veas que la misma película puede salir en 2 o los 3 generos.
 

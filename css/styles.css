@@ -1,18 +1,45 @@
+
 /* styles.css */
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium';
+  color: midnightblue;
+  
 }
 
 .genero-container {
   margin: 20px;
   padding: 20px;
   border: 1px solid #ccc;
-  background-color: #f8f8f8;
+  background-color: rgb(237, 237, 247);
 }
 
+h1 {
+  font-size: 4rem;
+  color: midnightblue;
+
+}
 h2 {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  color: midnightblue;
+  font-family: "Roboto", sans-serif;
+
 }
 
+.genero {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
 
+}
+
+.peliculas {
+  width: 160px;
+
+}
+
+.peliculas img {
+  width: 100%;
+
+}
