@@ -31,8 +31,8 @@ const verPelis = (generoId, peliFilter) => {
 }
 
 verPelis("genero-28", 28)
-verPelis("gen-53", 54)
-verPelis("gen-12", 12)
+verPelis("genero-53", 53)
+verPelis("genero-12", 12)
 
 
 
